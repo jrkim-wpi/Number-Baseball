@@ -1,0 +1,28 @@
+.numInput{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    border: 1px dotted purple;
+}
+
+.players{
+    width: 504px;
+    margin: auto;
+}
+
+.P1{
+    width: 250px;
+    height: 400px; 
+    float: left;
+    overflow-y: scroll;
+    border: 1px dotted red;
+}
+
+.P2{
+    width: 250px;
+    height: 400px; 
+    overflow-y: scroll;
+    border: 1px dotted blue;
+}
